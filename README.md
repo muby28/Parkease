@@ -52,7 +52,7 @@ Location Locking: Four IR sensors validate vehicle presence to confirm proper pa
 
 Exit: Tag guides driver to the nearest exit and updates server to release the slot.
 
-🖥 Software
+🖥️ Software
 Arduino IDE for firmware
 
 C++ / Arduino code for ESP32 and sensor communication
@@ -73,7 +73,6 @@ Improved traffic flow and user satisfaction
 Scalable for large campuses or institutions
 
 📎 Project Members
-
 Ammu Aby
 
 Aadarsh H S
@@ -87,4 +86,12 @@ Rishikesh J S
 🏫 Institution
 Department of Electronics & Communication Engineering
 Mar Baselios College of Engineering and Technology (MBCET)
-APJ Abdul Kalam Technological University
+APJ Abdul Kalam Technological University
+
+
+
+
+
+
+
+
