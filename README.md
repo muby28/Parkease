@@ -2,9 +2,11 @@
 🚗 ParkEase: An Automated Parking System
 📍 Final Year Mini Project | Electronics and Communication Engineering | MBCET
 🔍 Overview
+
 ParkEase is a smart, automated parking management system designed specifically for college campuses. It uses microcontrollers, sensors, and real-time communication to guide users to available slots, reduce congestion, and make parking simple, fast, and eco-friendly.
 
 🎯 Objectives
+
 Eliminate manual parking allocation
 
 Reduce campus traffic and idling time
@@ -14,6 +16,7 @@ Provide real-time slot updates and navigation
 Improve overall user experience for drivers and security staff
 
 💡 Key Features
+
 ESP32-based smart tag system for dynamic parking guidance
 
 IR sensors (x4 per slot) for precise vehicle detection
@@ -29,6 +32,7 @@ Switch-based interaction to repeat or change navigation routes
 Paperless and eco-friendly approach to parking
 
 🔧 Technologies & Components Used
+
 ESP32 microcontrollers
 
 IR Proximity Sensors (LM393)
@@ -44,6 +48,7 @@ WiFi (for communication between modules)
 Custom PCB layout
 
 🧠 How It Works
+
 Entrance: Vehicle is assigned a slot via ESP32-based tag after checking real-time availability.
 
 Navigation: LCD guides driver using GPS coordinates and route selection.
@@ -53,6 +58,7 @@ Location Locking: Four IR sensors validate vehicle presence to confirm proper pa
 Exit: Tag guides driver to the nearest exit and updates server to release the slot.
 
 🖥️ Software
+
 Arduino IDE for firmware
 
 C++ / Arduino code for ESP32 and sensor communication
@@ -62,6 +68,7 @@ HTTP & JSON-based server communication
 Web Dashboard (HTML + CSS) for live slot monitoring
 
 📊 Outcomes
+
 Reduced human intervention in parking management
 
 Smarter space utilization
@@ -73,6 +80,7 @@ Improved traffic flow and user satisfaction
 Scalable for large campuses or institutions
 
 📎 Project Members
+
 Ammu Aby
 
 Aadarsh H S
@@ -84,6 +92,7 @@ Aimen Navas
 Rishikesh J S
 
 🏫 Institution
+
 Department of Electronics & Communication Engineering
 Mar Baselios College of Engineering and Technology (MBCET)
 APJ Abdul Kalam Technological University
